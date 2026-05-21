@@ -1,0 +1,30 @@
+{
+    "lstm": {
+        "temperature_0.5": [
+            "To be or not to be, that is the sweet subjects\nAnd defend thee to my son and most shadow of the lower of his lay\nAnd all the talk of his sea, with all the earth\nThat he may be short of sister, and I think you\nOf thy son, the virtue ",
+            "ROMEO:\nWhat light through yonder window the prince, and to them.\n\nDUKE OF YORK:\nAs it may be deep when my heart to the voice\nBut of my gentlewoman, and shall make the fools\nAnd present the beast and passing hands,\nAnd the morning to a fire "
+        ],
+        "temperature_1.0": [
+            "To be or not to be, that is the way\nHe woo fatally cause and infriving of the state,\nAnd devert him, for the apprehenged eye,\nAnd knocks o'erlassing Clarence; and the mann loves\nBear one can my lawful thencire dreams;\nscarce him.\n\nC",
+            "ROMEO:\nWhat light through yonder window in me!\n\nSICINIUS:\nI do't? Friend wither, let answering, shall have you\nThe heavy bare inquired you and to those was decien?'\nI cower their other state shall teals, he sir to Rome\nThen your brothers an"
+        ],
+        "temperature_1.5": [
+            "To be or not to be, that is the majerset?\nIs't volw an'd you, may sets it him?\nOr I past, as you go, poochide loar'd!\nYour siinter'd wiy with myself it ded!\nBut two\nmuch, is heaven: but that yis hour.\nHow's taste and figer Ludy,\nIt ",
+            "ROMEO:\nWhat light through yonder window love of deswittos\nWain i' the past-devils?\nT not,--\nWhispernce's speaked.\n\nROMEO:\nO dishonourage'!\n\nDUKE VINCENTIO:\nLet? ha'll Ratenine absolute Katchon.\n\nMAMINIUS:\nDo alwe!s out good? ComJardney, wee"
+        ]
+    },
+    "transformer": {
+        "temperature_0.5": [
+            "To be or not to be, that is the the the wese the so se touloulesthand ther ngee the the to thand ofo hithe thease be f angean s\nAnd and t che the theathend the outhathind t n isthist use be thethalere arundofas m thed t thens.\n\n\n\nTh",
+            "ROMEO:\nWhat light through yonder window nge me d are thed,\nAn sis sthas in this athe t sthe thothin s nd s the the t and the me spanche thesto prese fo thaton thishathathe be wis thare an.\n\nBENVOLIO:\nThe soumal t mat ccond mast tond s so th"
+        ],
+        "temperature_1.0": [
+            "To be or not to be, that is the Fo an udepad fintefr: sthe my pawe e e nouthinoudelllandas thar pou kl thaleacherer as!\n3 trend med ng I ckerandre\n\nLoupand fitrands s ingbod ch fore ospore oran:\nWich pe thalll wivenl I me He beper w",
+            "ROMEO:\nWhat light through yonder window sesathe,\nI pherour, dike t. No ROUTERTELYCUS:\nS:\nFosinir S:\nS:\nEORI ormehy 'shis, ponte m testr, torwie, pu!\nHethunchind big tinise s d ntesatt be mo s fearerbretucald yea'sa ly he; vie.\n\n\nWho at mofo"
+        ],
+        "temperature_1.5": [
+            "To be or not to be, that is the aknuchevem nclit'slll p:\nFrkestr s iciede'Gangeie hays.ne Isbugbjot hokil thak,\nBIOMamit, pappn cchod kerukentt?\nBuracie amese mpachay:\nPreseck me woos pasime vee! whassdico.\nGowesh pock?\n\n'l Buspeak,",
+            "ROMEO:\nWhat light through yonder window fevepelve\nTo t. Ail But'goeajoo trdrthost fu:\n\nFoor 'ss..\nILLRGRUSur kn r, orkshasbra:\nPUGh LO, pret ntull CERe F woitemye d,-away I qu afrot,\nh mouer wommelfo\nA y mshe, bur; s: fofaybu; sue Veammbu\nc"
+        ]
+    }
+}

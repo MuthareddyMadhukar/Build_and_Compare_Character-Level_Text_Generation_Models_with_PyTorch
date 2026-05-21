@@ -1,0 +1,14 @@
+{
+    "model_type": "lstm",
+    "vocab_size": 65,
+    "embedding_dim": 128,
+    "hidden_dim": 256,
+    "n_layers": 2,
+    "n_heads": null,
+    "d_ff": null,
+    "seq_len": 100,
+    "final_train_loss": 1.3726384770870208,
+    "final_val_loss": 1.3590200821558633,
+    "final_perplexity": 3.892377222482049,
+    "epochs": 5
+}

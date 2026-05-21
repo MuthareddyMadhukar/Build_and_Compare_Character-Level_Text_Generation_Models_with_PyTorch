@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    image: char-level-text-gen:latest
+    container_name: char_gen_app
+    volumes:
+      - .:/workspace
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
